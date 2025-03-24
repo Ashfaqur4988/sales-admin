@@ -97,7 +97,7 @@
 ```
   API 1: wholesaler along with a list of retailers associated
 
-    /api/v1/wholesalers/3
+    /api/v1/wholesalers/:id
 
   API 2: Get a retailer who has single wholesaler
 
